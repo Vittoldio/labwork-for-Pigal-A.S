@@ -1,0 +1,11 @@
+C:\Users\vkold\source\repos\labwork for Pigal A.S\labwork for Pigal A.S\bin\Debug\netcoreapp3.1\labwork for Pigal A.S.exe
+C:\Users\vkold\source\repos\labwork for Pigal A.S\labwork for Pigal A.S\bin\Debug\netcoreapp3.1\labwork for Pigal A.S.deps.json
+C:\Users\vkold\source\repos\labwork for Pigal A.S\labwork for Pigal A.S\bin\Debug\netcoreapp3.1\labwork for Pigal A.S.runtimeconfig.json
+C:\Users\vkold\source\repos\labwork for Pigal A.S\labwork for Pigal A.S\bin\Debug\netcoreapp3.1\labwork for Pigal A.S.runtimeconfig.dev.json
+C:\Users\vkold\source\repos\labwork for Pigal A.S\labwork for Pigal A.S\bin\Debug\netcoreapp3.1\labwork for Pigal A.S.dll
+C:\Users\vkold\source\repos\labwork for Pigal A.S\labwork for Pigal A.S\bin\Debug\netcoreapp3.1\labwork for Pigal A.S.pdb
+C:\Users\vkold\source\repos\labwork for Pigal A.S\labwork for Pigal A.S\obj\Debug\netcoreapp3.1\labwork for Pigal A.S.csprojAssemblyReference.cache
+C:\Users\vkold\source\repos\labwork for Pigal A.S\labwork for Pigal A.S\obj\Debug\netcoreapp3.1\labwork for Pigal A.S.AssemblyInfoInputs.cache
+C:\Users\vkold\source\repos\labwork for Pigal A.S\labwork for Pigal A.S\obj\Debug\netcoreapp3.1\labwork for Pigal A.S.AssemblyInfo.cs
+C:\Users\vkold\source\repos\labwork for Pigal A.S\labwork for Pigal A.S\obj\Debug\netcoreapp3.1\labwork for Pigal A.S.dll
+C:\Users\vkold\source\repos\labwork for Pigal A.S\labwork for Pigal A.S\obj\Debug\netcoreapp3.1\labwork for Pigal A.S.pdb

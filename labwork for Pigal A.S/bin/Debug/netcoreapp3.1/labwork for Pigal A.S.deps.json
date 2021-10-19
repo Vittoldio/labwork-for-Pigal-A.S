@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "labwork for Pigal A.S/1.0.0": {
+        "runtime": {
+          "labwork for Pigal A.S.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "labwork for Pigal A.S/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
